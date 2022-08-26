@@ -15,7 +15,12 @@ function App() {
 				<main className="Dictionary">
 					<Dictionary />
 				</main>
-				<footer className="text-center App-footer">Coded by</footer>
+				<footer className="text-center App-footer">
+					Coded by{' '}
+					<a href="https://github.com/matatfreecoder/dictionary-app">
+						Natalia Matat
+					</a>
+				</footer>
 			</div>
 		</div>
 	);
