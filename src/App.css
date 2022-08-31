@@ -1,7 +1,7 @@
 .App-header {
 	text-align: center;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-top: 10px;
 }
 
 .App-footer {
@@ -9,6 +9,6 @@
 	font-size: smaller;
 }
 
-.App-header h1 > img {
-	padding-right: 20px;
+.App img {
+	padding: 0 10px;
 }

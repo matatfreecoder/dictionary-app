@@ -1,0 +1,13 @@
+.Meaning em {
+	font-size: 14px;
+	opacity: 0.8;
+}
+
+.Meaning strong {
+	opacity: 0.7;
+}
+
+.Meaning h3 {
+	color: #026b7e;
+	opacity: 0.8;
+}

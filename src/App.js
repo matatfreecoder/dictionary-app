@@ -7,13 +7,13 @@ function App() {
 		<div className="App">
 			<div className="container">
 				<header className="App-header">
-					<h1>
-						<img src="./book.png" alt="logo" />
-						Welcome to Dictionary
-					</h1>
+					<img src="./book.png" alt="dictionary" />
+					<img src="./book.png" alt="dictionary" />
+					<img src="./book.png" alt="dictionary" />
+					<h2>Welcome to dictionary</h2>
 				</header>
-				<main className="Dictionary">
-					<Dictionary />
+				<main>
+					<Dictionary defaultKeyword="Summer" />
 				</main>
 				<footer className="text-center App-footer">
 					Coded by{' '}
