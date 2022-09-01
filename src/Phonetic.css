@@ -7,12 +7,12 @@
 	border-radius: 15px;
 	padding: 2px 8px;
 	text-decoration: none;
-	color: #026b7e;
+	color: #408697;
 	font-weight: 600;
 	margin-right: 5px;
 }
 
 .Phonetic a:hover {
 	color: white;
-	background-color: #026b7ea9;
+	background-color: #408697b2;
 }

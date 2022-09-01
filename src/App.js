@@ -7,10 +7,11 @@ function App() {
 		<div className="App">
 			<div className="container">
 				<header className="App-header">
-					<img src="./book.png" alt="dictionary" />
-					<img src="./book.png" alt="dictionary" />
-					<img src="./book.png" alt="dictionary" />
-					<h2>Welcome to dictionary</h2>
+					<h2>
+						<img src="./book.png" alt="dictionary" />
+						Welcome to dictionary
+						<img src="./book.png" alt="dictionary" />
+					</h2>
 				</header>
 				<main>
 					<Dictionary defaultKeyword="dictionary" />
@@ -22,7 +23,11 @@ function App() {
 						target="_blank"
 						rel="noreferrer"
 					>
-						Natalia Matat
+						Natalia Matat.
+					</a>{' '}
+					Hosed on{' '}
+					<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+						Netlify
 					</a>
 				</footer>
 			</div>
