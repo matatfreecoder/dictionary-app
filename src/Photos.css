@@ -1,0 +1,19 @@
+.Photos img.img-fluid {
+	border-radius: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.Photos > div.section-footer {
+	padding-left: 10px;
+	padding-top: 0;
+}
+.Photos > div.section-footer > a {
+	color: rgb(89, 89, 89);
+	font-size: smaller;
+	text-decoration: none;
+}
+
+.Photos > div.section-footer > a:hover {
+	color: rgb(2, 107, 126, 0.7);
+}

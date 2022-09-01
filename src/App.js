@@ -13,11 +13,15 @@ function App() {
 					<h2>Welcome to dictionary</h2>
 				</header>
 				<main>
-					<Dictionary defaultKeyword="Summer" />
+					<Dictionary defaultKeyword="dictionary" />
 				</main>
 				<footer className="text-center App-footer">
 					Coded by{' '}
-					<a href="https://github.com/matatfreecoder/dictionary-app">
+					<a
+						href="https://github.com/matatfreecoder/dictionary-app"
+						target="_blank"
+						rel="noreferrer"
+					>
 						Natalia Matat
 					</a>
 				</footer>
