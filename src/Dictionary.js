@@ -58,8 +58,8 @@ export default function Dictionary(props) {
 					</form>
 					<div className="hint">Type a word and press Enter</div>
 				</section>
-				<Results results={results} />
 				<Photos photos={photos} />
+				<Results results={results} />
 			</div>
 		);
 	} else {
